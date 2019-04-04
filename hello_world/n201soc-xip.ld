@@ -1,0 +1,1 @@
+../shared/n201soc-xip.ld
